@@ -27,5 +27,9 @@ The Logistic Regression model achieved an accuracy of approximately **58%** on t
 ## Discussion
 The achieved accuracy is reasonable given the multi-class nature of the problem, class imbalance among genres, and overlapping movie themes.
 
+## Dataset Note
+The dataset used in this project exceeds GitHub’s file size limit and is therefore not included in this repository.
+It can be obtained from the CODSOFT-provided resources.
+
 ## Conclusion
 This project demonstrates the application of machine learning techniques for multi-class text classification and highlights real-world challenges such as imbalanced data and genre ambiguity.
